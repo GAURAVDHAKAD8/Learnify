@@ -2,7 +2,7 @@ import React from 'react'
 
 const CourseList = () => {
   return (
-    <div>
+    <div className='bg-blue-300'>
       courselist
     </div>
   )
