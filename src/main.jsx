@@ -1,4 +1,5 @@
 import { createRoot } from "react-dom/client";
+import "tailwindcss"
 import "./index.css";
 import App from "./App.jsx";
 import { AppContextProvider } from "./context/AppContext.jsx";
